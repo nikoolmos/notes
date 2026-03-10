@@ -41,3 +41,6 @@ https://www.frontendmentor.io/challenges
 mark.leutwyler@gmail.com
 sebastian@tipit.net
 jp@tipit.net
+
+
+recruiting@bairesdev.com
