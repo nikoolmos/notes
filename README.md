@@ -28,3 +28,8 @@ https://www.splunk.com/
 https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 
 https://www.frontendmentor.io/challenges
+
+
+
+
+[SUPABASE COURSE](https://www.youtube.com/watch?v=kyphLGnSz6Q)
