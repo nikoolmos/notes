@@ -19,3 +19,11 @@ https://www.getonbrd.com.ar/
 
 https://coderbyte.com/developers
 
+
+
+https://www.sans.org/
+https://github.com/ComodoSecurity/openedr
+wazuh.com
+https://www.splunk.com/
+https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+
