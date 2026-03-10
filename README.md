@@ -35,6 +35,17 @@ https://cisofy.com/lynis/
 [SUPABASE COURSE](https://www.youtube.com/watch?v=kyphLGnSz6Q)
 
 
+https://tinfoil-hat.net
+https://sanic-vr-adventure.neocities.org/
+https://downloadavirus.neocities.org/
+https://itsmodernnews.neocities.org/
+https://tifelabs.com/index.html
+https://cadence.moe/
+https://erratia.com/
+https://microsounds.github.io/
+https://codeblarg.com
+
+
 ## Some email addresses
 
 
