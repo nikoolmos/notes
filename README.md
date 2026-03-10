@@ -29,7 +29,7 @@ https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 
 https://www.frontendmentor.io/challenges
 
-
+https://cisofy.com/lynis/
 
 
 [SUPABASE COURSE](https://www.youtube.com/watch?v=kyphLGnSz6Q)
