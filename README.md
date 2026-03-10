@@ -33,3 +33,11 @@ https://www.frontendmentor.io/challenges
 
 
 [SUPABASE COURSE](https://www.youtube.com/watch?v=kyphLGnSz6Q)
+
+
+## Some email addresses
+
+
+mark.leutwyler@gmail.com
+sebastian@tipit.net
+jp@tipit.net
