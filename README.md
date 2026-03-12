@@ -124,6 +124,13 @@ https://www.npmjs.com/package/express-rate-limit
 Evitar CSRF usando el siguiente paquete
 https://www.npmjs.com/package/csrf-csrf
 
+Manejo seguro de cookies en Express
+https://www.npmjs.com/package/tough-cookie
+
+Manejo seguro de sesion de Express
+
+https://www.npmjs.com/package/express-session
+
 ## Some email addresses
 
 
