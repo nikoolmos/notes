@@ -149,6 +149,10 @@ https://www.npmjs.com/package/zod
 
 https://github.com/TooTallNate/nx.js/
 
+### Node Version Managers
+
+https://github.com/Schniz/fnm
+
 
 ## Tutoriales
 
