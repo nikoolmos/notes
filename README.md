@@ -101,6 +101,9 @@ https://owasp.org/
 >
 > Set up access token for apps
 
+https://sequelize.org/
+https://mongoosejs.com/
+
 ## Some email addresses
 
 
