@@ -120,6 +120,10 @@ Sensitive info on Session Storage
 Limit rate usign the following package
 https://www.npmjs.com/package/express-rate-limit
 
+
+Evitar CSRF usando el siguiente paquete
+https://www.npmjs.com/package/csrf-csrf
+
 ## Some email addresses
 
 
