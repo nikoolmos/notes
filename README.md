@@ -115,6 +115,11 @@ Session Storage > Local Storage
 
 Sensitive info on Session Storage
 
+
+
+Limit rate usign the following package
+https://www.npmjs.com/package/express-rate-limit
+
 ## Some email addresses
 
 
