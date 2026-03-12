@@ -146,6 +146,9 @@ https://portswigger.net/web-security
 Herramienta de validación de datos typescript-first
 https://www.npmjs.com/package/zod
 
+
+https://github.com/TooTallNate/nx.js/
+
 ## Some email addresses
 
 
