@@ -149,6 +149,8 @@ https://www.npmjs.com/package/zod
 
 https://github.com/TooTallNate/nx.js/
 
+https://www.npmjs.com/package/picocolors
+
 ### Node Version Managers
 
 https://github.com/Schniz/fnm
