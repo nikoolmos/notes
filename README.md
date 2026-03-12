@@ -110,6 +110,11 @@ https://mongoosejs.com/
 > Herramienta para setear headers de HTTP de forma segura.
 https://helmetjs.github.io/
 
+
+Session Storage > Local Storage
+
+Sensitive info on Session Storage
+
 ## Some email addresses
 
 
