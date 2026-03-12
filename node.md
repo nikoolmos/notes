@@ -5,6 +5,6 @@ os
 
 fs
 
+path
 
-
-promisify
+util/promisify
