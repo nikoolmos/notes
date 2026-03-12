@@ -92,7 +92,14 @@ https://owasp.org/
 ## Node
 
 > npm audit
+> 
 > npm outdated
+>
+> Set up 2FA
+>
+> Store security codes
+>
+> Set up access token for apps
 
 ## Some email addresses
 
