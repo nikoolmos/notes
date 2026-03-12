@@ -89,7 +89,10 @@ https://visme.co/blog
 
 https://owasp.org/
 
+## Node
 
+> npm audit
+> npm outdated
 
 ## Some email addresses
 
