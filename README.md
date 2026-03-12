@@ -101,8 +101,14 @@ https://owasp.org/
 >
 > Set up access token for apps
 
+
+> ORM para SQL
 https://sequelize.org/
+> ORM para MongoDB
 https://mongoosejs.com/
+
+> Herramienta para setear headers de HTTP de forma segura.
+https://helmetjs.github.io/
 
 ## Some email addresses
 
