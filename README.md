@@ -131,6 +131,10 @@ Manejo seguro de sesion de Express
 
 https://www.npmjs.com/package/express-session
 
+
+Ejecutar auditor de dependencias de OWASP
+https://owasp.org/www-project-dependency-check/
+
 ## Some email addresses
 
 
