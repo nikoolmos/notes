@@ -135,8 +135,13 @@ https://www.npmjs.com/package/express-session
 Ejecutar auditor de dependencias de OWASP
 https://owasp.org/www-project-dependency-check/
 
-Herramienta de auditoría de problemas de seguridad en Node apps
+Herramientas de auditoría de problemas de seguridad en Node apps
 https://snyk.io/es/
+https://portswigger.net/burp
+
+
+Curso de seguridad web
+https://portswigger.net/web-security
 
 ## Some email addresses
 
