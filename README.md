@@ -153,8 +153,9 @@ https://github.com/TooTallNate/nx.js/
 
 
 mark.leutwyler@gmail.com
-sebastian@tipit.net
-jp@tipit.net
 
+sebastian@tipit.net
+
+jp@tipit.net
 
 recruiting@bairesdev.com
