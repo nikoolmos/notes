@@ -149,6 +149,11 @@ https://www.npmjs.com/package/zod
 
 https://github.com/TooTallNate/nx.js/
 
+
+## Tutoriales
+
+https://javascript.info/
+
 ## Some email addresses
 
 
