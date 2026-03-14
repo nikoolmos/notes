@@ -10,6 +10,8 @@ https://offers.nodi.global/
 
 https://startups.gallery/
 
+https://www.mapeos.endeavor.org.ar/
+
 ### Linux UI themes
 
 https://www.gnome-look.org/browse/
