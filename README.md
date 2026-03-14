@@ -1,6 +1,12 @@
 # Notes
 
+
+
 https://offers.nodi.global/
+
+### Linux UI themes
+
+https://www.gnome-look.org/browse/
 
 
 Some notes on general IT topics
