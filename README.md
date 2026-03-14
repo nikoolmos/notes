@@ -8,6 +8,8 @@ https://www.examtopics.com/exams/amazon/
 
 https://offers.nodi.global/
 
+https://startups.gallery/
+
 ### Linux UI themes
 
 https://www.gnome-look.org/browse/
