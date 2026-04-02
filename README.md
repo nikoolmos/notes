@@ -1,5 +1,10 @@
 # Notes
 
+## tutorials
+
+
+https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021
+
 ### Preguntas de examenes
 
 https://www.examtopics.com/exams/amazon/
