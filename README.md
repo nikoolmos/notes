@@ -62,6 +62,7 @@ https://www.serrano.academy/
 
 https://www.frontendmentor.io/challenges
 
+https://portswigger.net/web-security
 
 ## Bookmarks
 
@@ -214,8 +215,7 @@ https://snyk.io/es/
 https://portswigger.net/burp
 
 
-Curso de seguridad web
-https://portswigger.net/web-security
+
 
 Herramienta de validación de datos typescript-first
 https://www.npmjs.com/package/zod
