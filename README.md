@@ -23,6 +23,7 @@ https://x64.ar/
 https://www.getonbrd.com.ar/
 
 ## Seguridad informática
+
 https://coderbyte.com/developers
 
 https://www.sans.org/
@@ -37,13 +38,13 @@ https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 
 https://owasp.org/
 
+https://cisofy.com/lynis/
+
 ## Linux 
 
 ### UI themes
 
 https://www.gnome-look.org/browse/
-
-Some notes on general IT topics
 
 ## Buscadores
 
@@ -53,20 +54,15 @@ https://marginalia-search.com/
 
 https://www.serrano.academy/
 
+https://www.frontendmentor.io/challenges
+
 ## Bookmarks
 
 https://es.ifixit.com/
 
 https://lukesmith.xyz/
 
-
-https://www.frontendmentor.io/challenges
-
-https://cisofy.com/lynis/
-
-
 [SUPABASE COURSE](https://www.youtube.com/watch?v=kyphLGnSz6Q)
-
 
 https://tinfoil-hat.net
 
