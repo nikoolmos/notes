@@ -224,7 +224,6 @@ https://www.npmjs.com/package/picocolors
 
 https://github.com/Schniz/fnm
 
-
 ## Tutoriales
 
 https://javascript.info/
@@ -232,17 +231,19 @@ https://javascript.info/
 https://www.smarsh.com/
 
 
-## Interesting projects
+## Proyectos interesantes
 
 https://driveonwaste.com/
 
 ## Psicología
 
 https://www.doriswesley.com/blog/framework1
+
 https://blog.10pines.com/2026/03/25/como-reparar-la-confianza-parte-3/
 
 ## Some email addresses
 
+atracciondetalento@telecentro.net.ar
 
 mark.leutwyler@gmail.com
 
