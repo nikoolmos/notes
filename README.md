@@ -233,7 +233,7 @@ https://github.com/Schniz/fnm
 
 https://www.smarsh.com/
 
-## Proyectos interesantes
+## Proyectos ecológicos interesantes
 
 https://driveonwaste.com/
 
