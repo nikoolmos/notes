@@ -6,6 +6,8 @@ https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021
 
 https://svgpocketguide.com/
 
+https://javascript.info/
+
 ### Preguntas de examenes
 
 https://www.examtopics.com/exams/amazon/
@@ -220,12 +222,9 @@ https://www.npmjs.com/package/picocolors
 
 https://github.com/Schniz/fnm
 
-## Tutoriales
-
-https://javascript.info/
+## Herramientas
 
 https://www.smarsh.com/
-
 
 ## Proyectos interesantes
 
