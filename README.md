@@ -1,9 +1,10 @@
 # Notes
 
-## tutorials
-
+## Tutoriales
 
 https://medium.com/@greggunn/how-to-make-your-own-color-palettes-712959fbf021
+
+https://svgpocketguide.com/
 
 ### Preguntas de examenes
 
@@ -17,16 +18,38 @@ https://startups.gallery/
 
 https://www.mapeos.endeavor.org.ar/
 
-### Linux UI themes
+https://x64.ar/
+
+https://www.getonbrd.com.ar/
+
+## Seguridad informática
+https://coderbyte.com/developers
+
+https://www.sans.org/
+
+https://github.com/ComodoSecurity/openedr
+
+wazuh.com
+
+https://www.splunk.com/
+
+https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+
+https://owasp.org/
+
+## Linux 
+
+### UI themes
 
 https://www.gnome-look.org/browse/
 
-
 Some notes on general IT topics
 
-https://svgpocketguide.com/
+## Buscadores
 
 https://marginalia-search.com/
+
+## Academias, escuelas y universidades
 
 https://www.serrano.academy/
 
@@ -34,24 +57,8 @@ https://www.serrano.academy/
 
 https://es.ifixit.com/
 
-https://x64.ar/
-
 https://lukesmith.xyz/
 
-https://www.getonbrd.com.ar/
-
-https://coderbyte.com/developers
-
-
-
-https://www.sans.org/
-
-https://github.com/ComodoSecurity/openedr
-wazuh.com
-
-https://www.splunk.com/
-
-https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 
 https://www.frontendmentor.io/challenges
 
@@ -155,10 +162,6 @@ https://uxmyths.com/
 
 https://visme.co/blog
 
-## websec & infosec
-
-https://owasp.org/
-
 ## Node
 
 > npm audit
@@ -185,11 +188,8 @@ Session Storage > Local Storage
 
 Sensitive info on Session Storage
 
-
-
 Limit rate usign the following package
 https://www.npmjs.com/package/express-rate-limit
-
 
 Evitar CSRF usando el siguiente paquete
 https://www.npmjs.com/package/csrf-csrf
@@ -200,7 +200,6 @@ https://www.npmjs.com/package/tough-cookie
 Manejo seguro de sesion de Express
 
 https://www.npmjs.com/package/express-session
-
 
 Ejecutar auditor de dependencias de OWASP
 https://owasp.org/www-project-dependency-check/
