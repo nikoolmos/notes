@@ -48,15 +48,20 @@ https://cisofy.com/lynis/
 
 https://www.gnome-look.org/browse/
 
+
 ## Buscadores
 
 https://marginalia-search.com/
+
+https://duckduckgo.com/
+
 
 ## Academias, escuelas y universidades
 
 https://www.serrano.academy/
 
 https://www.frontendmentor.io/challenges
+
 
 ## Bookmarks
 
@@ -86,6 +91,7 @@ https://codeblarg.com
 
 
 ## Blogs de diseño
+
 https://99u.adobe.com/
 
 https://alistapart.com/blog/topic/design/
@@ -101,9 +107,10 @@ https://www.creativebloq.com/
 https://www.creativeboom.com/
 
 https://www.creativereview.co.uk/
-https://design-milk.com/
-https://www.designweek.co.uk/
 
+https://design-milk.com/
+
+https://www.designweek.co.uk/
 
 https://www.designboom.com/
 
