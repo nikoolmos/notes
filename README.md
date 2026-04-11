@@ -32,7 +32,7 @@ https://www.sans.org/
 
 https://github.com/ComodoSecurity/openedr
 
-wazuh.com
+https://wazuh.com/
 
 https://www.splunk.com/
 
