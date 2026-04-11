@@ -8,7 +8,7 @@ https://svgpocketguide.com/
 
 https://javascript.info/
 
-### Preguntas de examenes
+### Preguntas de exámenes
 
 https://www.examtopics.com/exams/amazon/
 
