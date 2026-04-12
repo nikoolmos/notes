@@ -237,6 +237,8 @@ https://www.smarsh.com/
 
 https://cdb.cr.yp.to/
 
+https://www.visidata.org/
+
 ## Proyectos ecológicos interesantes
 
 https://driveonwaste.com/
