@@ -66,6 +66,12 @@ https://portswigger.net/web-security
 
 ## Marcadores
 
+### Blogs de informática
+
+https://danluu.com/file-consistency/
+
+https://danluu.com/
+
 https://roadmap.sh/dashboard
 
 https://es.ifixit.com/
