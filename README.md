@@ -55,6 +55,9 @@ https://marginalia-search.com/
 
 https://duckduckgo.com/
 
+https://mwmbl.org/
+
+https://kagi.com/
 
 ## Academias, escuelas y universidades
 
