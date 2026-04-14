@@ -258,6 +258,10 @@ https://www.doriswesley.com/blog/framework1
 
 https://blog.10pines.com/2026/03/25/como-reparar-la-confianza-parte-3/
 
+## Curiosidades
+
+https://charcuterie.elastiq.ch/#1D87A
+
 ## Some email addresses
 
 atracciondetalento@telecentro.net.ar
