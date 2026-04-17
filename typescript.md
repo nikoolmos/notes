@@ -21,3 +21,19 @@ Es importante destacar que:
 * Es necesario utilizar el operador `typeof` delante del nombre de la función.
 * Es necesario utilizar el tipo auxiliar `Parameters`.
 * El tipo construido es un array (tupla).
+
+### ¡Cómo puedo generar un tipo a partir del valor de retorno de una función?
+
+Para generar un tipo a partir del valor de retorno de una función se puede implementar el siguiente código:
+
+```
+function retornarUsuario() {
+    return {
+        nombre: 'nicolas',
+        apellido: 'olmos'
+        edad: 31,
+    };
+}
+
+type MiNuevoTipo = ReturnType<typeof retornarUsuario>;
+```
