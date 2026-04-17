@@ -22,7 +22,7 @@ Es importante destacar que:
 * Es necesario utilizar el tipo auxiliar `Parameters`.
 * El tipo construido es un array (tupla).
 
-### ¡Cómo puedo generar un tipo a partir del valor de retorno de una función?
+### ¿Cómo puedo generar un tipo a partir del valor de retorno de una función?
 
 Para generar un tipo a partir del valor de retorno de una función se puede implementar el siguiente código:
 
@@ -30,10 +30,15 @@ Para generar un tipo a partir del valor de retorno de una función se puede impl
 function retornarUsuario() {
     return {
         nombre: 'nicolas',
-        apellido: 'olmos'
+        apellido: 'olmos',
         edad: 31,
     };
 }
 
 type MiNuevoTipo = ReturnType<typeof retornarUsuario>;
 ```
+
+Es importante destacar que:
+
+* El nuevo tipo es un objeto con una estructura identica a la del objeto retornado por la función.
+
