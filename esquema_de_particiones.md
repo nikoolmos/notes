@@ -16,3 +16,13 @@ Otras posibles particiones:
 * /var/www
 * /var/lib/mysql
 * /var/log
+* /boot
+* /boot/efi
+
+Revisar las opciones de seguridad más pertinentes para cada partición.
+
+
+Fuentes:
+
+https://www.daniloaz.com/es/blog/la-importancia-de-particionar-correctamente-un-disco-en-linux
+https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86
