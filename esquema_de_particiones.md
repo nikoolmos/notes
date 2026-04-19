@@ -22,6 +22,10 @@ Otras posibles particiones:
 Revisar las opciones de seguridad más pertinentes para cada partición.
 
 
+## Sobre el cifrado de una partición Linux
+https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup
+
+
 Fuentes:
 
 https://www.daniloaz.com/es/blog/la-importancia-de-particionar-correctamente-un-disco-en-linux
