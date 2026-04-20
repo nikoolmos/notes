@@ -42,3 +42,13 @@ Es importante destacar que:
 
 * El nuevo tipo es un objeto con una estructura identica a la del objeto retornado por la función.
 
+## Decoradores
+
+Son funciones que permiten personalizar el comportamiento de otros fragmentos de código.
+
+### Enlaces útiles
+
+* [Typescript 5.0 - Sección de Decoradores](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators)
+* [Artículo de meteprogramación en Javascript con Decoradores](https://2ality.com/2022/10/javascript-decorators.html)
+
+
